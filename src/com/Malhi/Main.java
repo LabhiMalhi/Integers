@@ -8,5 +8,6 @@ public class Main {
         System.out.println(var1==var2);
         System.out.println(var1!=var2);
         System.out.println(var1<var2);
+        System.out.println("HelloWorld");
     }
 }
